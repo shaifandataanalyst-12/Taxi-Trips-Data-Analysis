@@ -127,11 +127,11 @@ The analysis helps taxi companies:
 
 ## Vizualization
 
-<img width="600" height="600" alt="Screenshot 2026-03-13 152938" src="https://github.com/user-attachments/assets/742c951e-6394-4fad-9d76-18b3e0c829b6" />
-<img width="600" height="600" alt="Screenshot 2026-03-13 152902" src="https://github.com/user-attachments/assets/e82ba473-d682-4082-9c06-e4ced0d519cf" />
-<img width="600" height="600" alt="Screenshot 2026-03-13 152834" src="https://github.com/user-attachments/assets/9def9722-f08b-4a17-8384-7a05c1cec136" />
-<img width="600" height="600" alt="Screenshot 2026-03-13 152820" src="https://github.com/user-attachments/assets/e66f962f-616c-4e4b-b240-51e9592972ef" />
-<img width="600" height="600" alt="Screenshot 2026-03-13 152750" src="https://github.com/user-attachments/assets/f71a681f-82fc-421e-b6f3-9e186e193523" />
+<img width="600" height="700" alt="Screenshot 2026-03-13 152938" src="https://github.com/user-attachments/assets/742c951e-6394-4fad-9d76-18b3e0c829b6" />
+<img width="600" height="700" alt="Screenshot 2026-03-13 152902" src="https://github.com/user-attachments/assets/e82ba473-d682-4082-9c06-e4ced0d519cf" />
+<img width="600" height="700" alt="Screenshot 2026-03-13 152834" src="https://github.com/user-attachments/assets/9def9722-f08b-4a17-8384-7a05c1cec136" />
+<img width="600" height="700" alt="Screenshot 2026-03-13 152820" src="https://github.com/user-attachments/assets/e66f962f-616c-4e4b-b240-51e9592972ef" />
+<img width="600" height="700" alt="Screenshot 2026-03-13 152750" src="https://github.com/user-attachments/assets/f71a681f-82fc-421e-b6f3-9e186e193523" />
 
 
 
